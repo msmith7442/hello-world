@@ -1,3 +1,3 @@
 # hello-world
-ima noob
-just learning
+ima noob,
+just learning!
